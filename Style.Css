@@ -1,0 +1,68 @@
+html {
+    
+    background: url("images/Kool\ Katjpg.jpg") no-repeat center fixed;
+    background-size:cover; 
+}
+    p{
+    font-family:arial,helvetica,sans-serif;
+}
+
+h1, h2 {
+    font-family: 'comic sans', monospace;
+}
+h1{
+    color:white;
+    text-align:center;
+    letter-spacing:2px;
+    font-size:45px;
+    text-shadow:2px 2px;
+}
+p, ul {
+    font-family: 'Open Sans', sans-serif;
+    letter-spacing:0.5px;
+}
+
+h2 {
+    font-variant:small-caps;
+}
+
+span{
+    font-family:"papyrus";
+}
+/*Section headers*/
+
+.css {
+   border: 2px solid red;
+   box-shadow: 2px 2px rgb(200,0,0)
+}
+.html {
+   border: 2px solid rgb(0, 4, 255);
+   box-shadow: 2px 2px rgb(27, 0, 148)
+}
+.js {
+   border: 2px solid rgb(174, 0, 255);
+   box-shadow: 2px 2px rgb(124, 0, 173)
+}
+/*Link Styles*/
+a {
+    color: #0000cc;
+    text-decoration:none;
+}
+a:hover {
+    text-decoration:underline;
+}
+div {
+     border-radius: 60px;
+     width: 600px;
+     margin: 50px auto;
+     padding: 10px 100px;
+     background-color: white;
+      }
+
+/* Image Style */
+img {
+    width:30px;
+    height:30px;
+    vertical-align:middle;
+}
+   
